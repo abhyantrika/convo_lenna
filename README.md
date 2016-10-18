@@ -1,1 +1,1 @@
-Simple feature extraction using convo nets in theano
+Simple feature extraction using convo nets in theano on Lenna.
